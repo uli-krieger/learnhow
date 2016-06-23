@@ -1,1 +1,1 @@
-PAGE = page
+page = PAGE
